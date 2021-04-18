@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/13/3f/ba/4d/bar.jpg");
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+}
+#main_div{
+    background-color: darkmagenta;
+    border: 5px ridge yellow;
+    padding: 100px;
+    margin-top:100px ;
+    width: 60%;
+}
